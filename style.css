@@ -1,0 +1,48 @@
+.navbar {
+    background-color: #563d7c;
+
+}
+
+.navbar-brand {
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Lucida Handwriting' cursive;
+}
+
+#navbarNav {
+    font-size: larger;
+    font-weight: bolder;
+    font-style: oblique;
+}
+
+.nav-item:hover {
+    text-transform: uppercase;
+}
+
+.d-block {
+    height: 700px;
+}
+
+.card-img-top {
+    height: 300px;
+}
+
+.card:hover {
+    box-shadow: 0 22px 26px 0 rgb(214, 196, 218);
+}
+
+.btn {
+    background-color: #563d7c;
+    border: none;
+
+}
+
+.btn:hover {
+    background-color: darkmagenta;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.fa {
+    color: #563d7c;
+}
